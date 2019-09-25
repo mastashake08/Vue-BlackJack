@@ -9,7 +9,7 @@ const precacheFiles = [
   '/dist/diamonds.png',
   '/dist/favicon.ico',
   '/dist/hearts.png',
-  '/dist/spades.png'
+  '/dist/spades.png',
   'index.html'
 ];
 
