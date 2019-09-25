@@ -5,7 +5,7 @@
     "start_url" : "/",
     "display" : "standalone",
     "lang" : "English",
-    "icons" : [[
+    "icons" : [
         {
             "src": "/dist/logo.png",
             "sizes": "400x558"
